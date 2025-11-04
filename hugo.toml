@@ -2,6 +2,7 @@ theme = 'hugo-blog-awesome'
 languageCode = 'en-us'
 title = 'Yolowex blog'
 
+
 [[params.socialIcons]]
 name = "github"
 url = "https://github.com/yolowex"
