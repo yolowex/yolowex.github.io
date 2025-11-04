@@ -1,7 +1,7 @@
 {
     "name": "Yolowex blog",
     "short_name": "Yolowex blog",
-    "start_url": "//localhost:1313/",
+    "start_url": "/",
     "theme_color": "#434648",
     "background_color": "#ffffff",
     "display": "standalone",

@@ -43,5 +43,8 @@ url = "mailto:yolowex@gmail.com"
 	pageRef = '/posts'
 	weight = 30
 
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
 	
 
