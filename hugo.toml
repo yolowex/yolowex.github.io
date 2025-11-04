@@ -1,0 +1,46 @@
+theme = 'hugo-blog-awesome'
+languageCode = 'en-us'
+title = 'Yolowex blog'
+
+[[params.socialIcons]]
+name = "github"
+url = "https://github.com/yolowex"
+
+[[params.socialIcons]]
+name = "telegram"
+url = "https://t.me/Yolowex"
+
+[[params.socialIcons]]
+name = 'email'
+url = "mailto:yolowex@gmail.com"
+
+[params]
+	goToTop = true
+	copyright-year = "2025"
+	subtitle = "Personal blog of an unemployed college dropout"
+	[params.author]
+		name = "Mohammad Moein Azari"
+		email = "yolowex@gmail.com"
+		intro = "Yolowex Blog"
+		description = "Personal blog of an unemployed college dropout"
+		avatar = "images/avatar.jpg"
+
+
+[menus]
+  [[menus.main]]
+	name = "Home"
+	pageRef = "/"
+	weight = 50 
+
+  [[menus.main]]
+    name = 'About'
+    pageRef = '/about'
+    weight = 40
+
+  [[menus.main]]
+	name = 'Posts'
+	pageRef = '/posts'
+	weight = 30
+
+	
+
