@@ -8,6 +8,20 @@
     <language>en-us</language>
     <lastBuildDate>Wed, 05 Nov 2025 01:26:07 +0330</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Testing github actions</title>
+      <link>/posts/2025-11-05-01-26/</link>
+      <pubDate>Wed, 05 Nov 2025 01:26:07 +0330</pubDate>
+      
+      <guid>/posts/2025-11-05-01-26/</guid>
+      
+      <description>&lt;p&gt;After almost two hours of playing with GitHub Actions and hugo config files,
+I managed to host my blog on GitHub pages appropriately.&lt;/p&gt;
+&lt;p&gt;They made it so easy, I just used a project called hugo to build the very thing you are looking at, for free.&lt;/p&gt;
+&lt;p&gt;I am also hosting this website for free, it is static and allows no user interactions yes, but it meets my needs, and is free.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
       <title>My very first post</title>
       <link>/posts/2025-11-05-00-22/</link>
       <pubDate>Wed, 05 Nov 2025 00:22:14 +0330</pubDate>
