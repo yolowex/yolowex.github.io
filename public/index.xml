@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Yolowex blog</title>
-    <link>/</link>
+    <link>//localhost:1313/</link>
     <description>Recent content on Yolowex blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 05 Nov 2025 00:22:14 +0330</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 05 Nov 2025 00:22:14 +0330</lastBuildDate><atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My very first post</title>
-      <link>/posts/2025-11-05-00-22/</link>
+      <link>//localhost:1313/posts/2025-11-05-00-22/</link>
       <pubDate>Wed, 05 Nov 2025 00:22:14 +0330</pubDate>
       
-      <guid>/posts/2025-11-05-00-22/</guid>
+      <guid>//localhost:1313/posts/2025-11-05-00-22/</guid>
       
-      <description>&lt;p&gt;I remember when I was kid, when I was at most 15 years old, I created a weblog for myself.
+      <description>&lt;p&gt;I remember when I was kid , when I was at most 15 years old, I created a weblog for myself.
 I was so hyped over it, I was thinking, &lt;em&gt;I&amp;rsquo;m going to get so many viewers&amp;hellip;&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;And I didn&amp;rsquo;t.&lt;/p&gt;
+&lt;p&gt;And I didn&amp;rsquo;t. 🐏&lt;/p&gt;
 &lt;p&gt;Past-me would condemn me for not achieving that, but Present-me doesn&amp;rsquo;t even care, really, not in the slightest.&lt;/p&gt;
 &lt;p&gt;It is really weird how people change over the course of time, people can change so much, that they can become the opposite of what they once were.&lt;/p&gt;</description>
       
@@ -24,10 +24,10 @@ I was so hyped over it, I was thinking, &lt;em&gt;I&amp;rsquo;m going to get so 
     
     <item>
       <title>About</title>
-      <link>/about/</link>
+      <link>//localhost:1313/about/</link>
       <pubDate>Wed, 05 Nov 2025 00:07:11 +0330</pubDate>
       
-      <guid>/about/</guid>
+      <guid>//localhost:1313/about/</guid>
       
       <description>&lt;p&gt;Hello, This is Yolowex.&lt;/p&gt;
 &lt;p&gt;My friends call me by many names, but my online friends,
