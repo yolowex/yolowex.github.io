@@ -45,7 +45,7 @@ url = "mailto:yolowex@gmail.com"
 
   [[menus.main]]
 	name = 'Open Source'
-	pageRef = '/open_source'
+	pageRef = '/open_source/open_source'
 	weight = 30
 
 [caches]
