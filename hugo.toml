@@ -43,6 +43,11 @@ url = "mailto:yolowex@gmail.com"
 	pageRef = '/posts'
 	weight = 30
 
+  [[menus.main]]
+	name = 'Open Source'
+	pageRef = '/open_source'
+	weight = 30
+
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
